@@ -1,6 +1,10 @@
 ## Welcome 👋
 
-I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. Let's connect, collaborate, and create something amazing together! 
+I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. 
+
+When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. 
+
+Let's connect, collaborate, and create something amazing together! 
 
 ###### Technologies & tools I'm currently working with
 [![My Skills](https://skillicons.dev/icons?i=cs,net,js,ts,html,css,react,next,tailwind,bootstrap,figma,azure,postman,git,github)](https://skillicons.dev)
