@@ -1,10 +1,10 @@
 ### Welcome 👋
 
-#### I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. :seedling:
+I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. :seedling:
 
-#### When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. :feet:
+When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. :feet:
 
-#### Let's connect, collaborate, and create something amazing together! 📫
+Let's connect, collaborate, and create something amazing together! 📫
 - Email: eboron-trotter@codestack.co
 - LinkedIn: [Elizabeth Trotter](https://www.linkedin.com/in/elizabeth-trotter/)
 
