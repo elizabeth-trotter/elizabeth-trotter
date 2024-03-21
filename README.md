@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. I'm always eager to explore new horizons in the ever-evolving world of technology.
 
 <!--
 **et120/et120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
