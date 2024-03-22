@@ -1,4 +1,4 @@
-## Welcome 👋
+## Welcome :rocket:
 
 I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. :seedling:
 
@@ -18,7 +18,7 @@ Let's connect, collaborate, and create something amazing together! 📫
 </details>
 
 
-<!--
+<!-- 👋
 **et120/et120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
