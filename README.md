@@ -1,4 +1,4 @@
-### Welcome 👋
+## Welcome 👋
 
 I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. :seedling:
 
