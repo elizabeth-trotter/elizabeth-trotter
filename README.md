@@ -1,12 +1,13 @@
-## Welcome :rocket:
+## Welcome <img src="https://github.com/et120/et120/assets/148283439/84790f56-e37a-4dde-9f32-52018624e65a" width="40" height="40"/>
 
-I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. :seedling:
+I'm Elizabeth, a student currently honing my software development skills at CodeStack Academy. <img align=center src="https://github.com/et120/et120/assets/148283439/20527a1e-ce21-4764-a17a-05dd2650be66" width="24" height="24"/>
 
-When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. :feet:
+When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. <img align=center src="https://github.com/et120/et120/assets/148283439/6958f36d-5287-4687-bae6-60c5715e3ba1" width="27" height="27"/>
 
-Let's connect, collaborate, and create something amazing together! 📫
-- LinkedIn: [Elizabeth Trotter](https://www.linkedin.com/in/elizabeth-trotter/)
+Let's connect, collaborate, and create something amazing together!
+- LinkedIn: [Elizabeth Trotter](https://www.linkedin.com/in/elizabeth-trotter/) <img align=center src="https://github.com/et120/et120/assets/148283439/3ca6c0f8-4141-4988-9ea3-0855fae94ca1" width="30" height="30"/>
 - Email: eboron-trotter@codestack.co
+
 
 <details open>
 <summary>Tech Stack</summary>
