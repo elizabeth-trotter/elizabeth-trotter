@@ -5,8 +5,8 @@ I'm Elizabeth, a student currently honing my software development skills at Code
 When I'm not crafting code, you'll find me at the gym, exploring the great outdoors, reading sci-fi/fantasy literature, or enjoying quality time with my golden retriever. <img align=center src="https://github.com/et120/et120/assets/148283439/6958f36d-5287-4687-bae6-60c5715e3ba1" width="27" height="27"/>
 
 Let's connect, collaborate, and create something amazing together!
-- LinkedIn: [Elizabeth](https://www.linkedin.com/in/elizabeth-trotter/) <img align=center src="https://github.com/et120/et120/assets/148283439/3ca6c0f8-4141-4988-9ea3-0855fae94ca1" width="30" height="30"/>
-- Email: elizabeth.dev.inquiry@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/elizabeth-trotter/) <img align=center src="https://github.com/et120/et120/assets/148283439/3ca6c0f8-4141-4988-9ea3-0855fae94ca1" width="30" height="30"/>
+- [Send an Email](mailto:elizabeth.dev.inquiry@gmail.com)
 
 
 <details open>
