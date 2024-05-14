@@ -6,7 +6,7 @@ When I'm not crafting code, you'll find me at the gym, exploring the great outdo
 
 Let's connect, collaborate, and create something amazing together!
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-trotter/) <img align=center src="https://github.com/et120/et120/assets/148283439/3ca6c0f8-4141-4988-9ea3-0855fae94ca1" width="30" height="30"/>
-- [Send an Email](mailto:elizabeth.dev.inquiry@gmail.com)
+- [Send an Email](mailto:github@elizabeth-trotter.com)
 
 
 <details open>
