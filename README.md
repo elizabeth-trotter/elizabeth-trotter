@@ -2,7 +2,7 @@
 
 #### Hi, I'm Elizabeth!
 
-I've recently completed a year-long intensive software development program, where I honed my skills in <strong>full stack development</strong>. While I've graduated, my <strong>passion for learning</strong> and exploring new technologies continues to grow. <img align=center src="https://github.com/et120/et120/assets/148283439/20527a1e-ce21-4764-a17a-05dd2650be66" width="24" height="24"/>
+I completed a year-long intensive software development program, where I honed my skills in <strong>full stack development</strong>. While I've graduated, my <strong>passion for learning</strong> and exploring new technologies continues to grow. <img align=center src="https://github.com/et120/et120/assets/148283439/20527a1e-ce21-4764-a17a-05dd2650be66" width="24" height="24"/>
 
 When I'm not <strong>crafting code</strong>, you'll find me at the gym, exploring the great outdoors, reading sci-fi/ fantasy literature, or enjoying quality time with my golden retriever. <img align=center src="https://github.com/et120/et120/assets/148283439/6958f36d-5287-4687-bae6-60c5715e3ba1" width="27" height="27"/>
 
