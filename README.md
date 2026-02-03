@@ -1,3 +1,4 @@
+<!-- 1. DELETE LEFT HERE!
 ## Welcome <img src="https://github.com/et120/et120/assets/148283439/84790f56-e37a-4dde-9f32-52018624e65a" width="40" height="40"/>
 
 #### Hi, I'm Elizabeth!
@@ -11,7 +12,7 @@ Let's connect, collaborate, and <strong>create something amazing</strong> togeth
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-trotter/) <img align=center src="https://github.com/et120/et120/assets/148283439/3ca6c0f8-4141-4988-9ea3-0855fae94ca1" width="30" height="30"/> 
 - [Send an Email](mailto:github@elizabeth-trotter.com)
 -->
-
+<!-- 2. DELETE LEFT HERE!
 <details open>
 <summary>Tech Stack</summary>
   
